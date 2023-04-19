@@ -1,10 +1,3 @@
-# Beer Recommender & Rating Predictor
-
-* Student name: A. Utku Kale
-* Student pace: NYC/Full time
-* Scheduled project review date/time: 4/1/23
-* Instructor name: Brendan Hutchinson & Joseph Mata
-* Blog post URL: https://medium.com/@utkukale 
 
 ![image.png](image/img2.jpg)
 
